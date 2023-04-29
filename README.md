@@ -173,6 +173,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+```
 */
 Developed by :POOJA A
 Reg no:212222240072
@@ -284,6 +285,7 @@ void Error_Handler(void)
   }
   
 }
+```
 
 #ifdef  USE_FULL_ASSERT
 
